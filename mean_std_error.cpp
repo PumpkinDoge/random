@@ -49,11 +49,8 @@ int main()
         ++input_size;
     }
     
-    std::cout << "";
-    std::cout << "\nThe mean of this dataset is: " << mean(values) << std::endl;
-    std::cout << "";
+    std::cout << "\nThe mean of this dataset is: " << mean(values) << std::endl;   
     std::cout << "\nThe standard deviation of this dataset is: " << std_dev(values) << std::endl;
-    std::cout << "";
     std::cout << "\nThe standard error of this dataset is: " << std_error(values) << std::endl;
 
     return 0;
