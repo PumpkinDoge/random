@@ -34,9 +34,9 @@ float std_error(float data[])
     return (std_dev(data)/sqrt(input_size));
 }
 
-// Main module takes in a sequence of numbersfor a dataset and uses "q" as an endpoint. 
+// Main module takes in a sequence of numbers in a dataset and uses "q" as an endpoint. 
 // Displays the mean, standard deviation, and standard error of the dataset.
-// Accuracy is reduced to the thousandths place or 3 digits after the decimal.
+// Accuracy is reduced to the thousandth place or 3 digits after the decimal.
 int main()
 {
     float input;
