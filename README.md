@@ -4,3 +4,4 @@ As of now, includes:
 -Square root approximation function
 -Mean, Standard Deviation, and Standard Error Calculator
 -Tic Tac Toe console minigame
+-Simpson Rule Integral approximation
