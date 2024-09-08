@@ -5,3 +5,4 @@ As of now, includes:
 -Mean, Standard Deviation, and Standard Error Calculator
 -Tic Tac Toe console minigame
 -Simpson Rule Integral approximation
+-Definition of a Derivative approximation
