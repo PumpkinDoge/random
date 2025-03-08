@@ -6,3 +6,4 @@ As of now, includes:
 -Tic Tac Toe console minigame
 -Simpson Rule Integral approximation
 -Definition of a Derivative approximation
+-Error Approximation of 3 variables or less
